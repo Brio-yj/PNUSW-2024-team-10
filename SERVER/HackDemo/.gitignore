@@ -37,3 +37,6 @@ out/
 .vscode/
 
 src/main/resources/application-auth.properties
+
+# Ignore the application-auth.properties file
+src/main/resources/application-auth.properties
